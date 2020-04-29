@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Register xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <People>
+    <Person FirstName="First1" LastName="Last1" StreetName="St1" HouseNumber="1" PostalCode="11432" Town="Town1" PhoneNumber="Phone1" DateOfBirth="2001-01-01T00:00:00" />
+    <Person FirstName="First2" LastName="Last2" StreetName="St2" HouseNumber="22" PostalCode="22345" Town="Town2" PhoneNumber="Phone2" DateOfBirth="1991-03-20T00:00:00" />
+    <Person FirstName="First3" LastName="Last3" StreetName="St3" HouseNumber="33" PostalCode="33546" Town="Town3" PhoneNumber="33333333" DateOfBirth="1996-01-01T00:00:00" />
+    <Person FirstName="First4" LastName="Last4" StreetName="St4" PostalCode="44564" Town="fghfh" PhoneNumber="44444444" DateOfBirth="1999-12-22T00:00:00" />
+    <Person FirstName="First5" LastName="Last5" StreetName="St5" HouseNumber="5" ApartmentNumber="5" PostalCode="55555" Town="thytryry" PhoneNumber="55555555" DateOfBirth="2000-01-01T00:00:00" />
+  </People>
+</Register>

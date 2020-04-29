@@ -1,0 +1,17 @@
+D:\REP\RegisterOfPeopleApp\bin\Release\RegisterOfPeopleApp.exe.config
+D:\REP\RegisterOfPeopleApp\bin\Release\RegisterOfPeopleApp.exe
+D:\REP\RegisterOfPeopleApp\bin\Release\RegisterOfPeopleApp.pdb
+D:\REP\RegisterOfPeopleApp\obj\Release\RegisterOfPeopleApp.csprojAssemblyReference.cache
+D:\REP\RegisterOfPeopleApp\obj\Release\RegisterWindow.baml
+D:\REP\RegisterOfPeopleApp\obj\Release\RegisterWindow.g.cs
+D:\REP\RegisterOfPeopleApp\obj\Release\App.g.cs
+D:\REP\RegisterOfPeopleApp\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\REP\RegisterOfPeopleApp\obj\Release\RegisterOfPeopleApp_MarkupCompile.cache
+D:\REP\RegisterOfPeopleApp\obj\Release\RegisterOfPeopleApp_MarkupCompile.lref
+D:\REP\RegisterOfPeopleApp\obj\Release\App.baml
+D:\REP\RegisterOfPeopleApp\obj\Release\RegisterOfPeopleApp.g.resources
+D:\REP\RegisterOfPeopleApp\obj\Release\RegisterOfPeopleApp.Properties.Resources.resources
+D:\REP\RegisterOfPeopleApp\obj\Release\RegisterOfPeopleApp.csproj.GenerateResource.cache
+D:\REP\RegisterOfPeopleApp\obj\Release\RegisterOfPeopleApp.csproj.CoreCompileInputs.cache
+D:\REP\RegisterOfPeopleApp\obj\Release\RegisterOfPeopleApp.exe
+D:\REP\RegisterOfPeopleApp\obj\Release\RegisterOfPeopleApp.pdb
